@@ -73,8 +73,9 @@ def clean_station_registry(filepath: str) -> pd.DataFrame:
 
     df["Status"] = df["Status"].str.title()
 
-    # Drop rows without a station name (NaN or empty string placeholder)
-    df = df[df["Station Name"].notna() & (df["Station Name"] != "") & (df["Station Name"] != "Nan")]
+    # Drop rows without a station name (NaN or empty string / any case variant)
+    invalid = {"", "nan", "none", "n/a", "na"}
+    df = df[df["Station Name"].notna() & ~df["Station Name"].str.lower().isin(invalid)]
     df = df.drop_duplicates(subset=["Station Name"])
     df = df.reset_index(drop=True)
     return df

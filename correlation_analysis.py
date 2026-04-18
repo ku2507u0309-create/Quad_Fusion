@@ -161,7 +161,7 @@ def compute_lagged_correlation(
             records.append({"lag": lag, "correlation": np.nan, "p_value": np.nan})
             continue
         try:
-            r, p = corr_fn(valid.iloc[:, 0], valid.iloc[:, 1])
+            r, p = corr_fn(valid[col_x], valid[col_y])
         except Exception:
             r, p = np.nan, np.nan
         records.append({"lag": lag, "correlation": r, "p_value": p})

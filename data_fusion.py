@@ -160,13 +160,16 @@ def add_temporal_features(df: pd.DataFrame, timestamp_col: str = "From Date") ->
         labels=["Night", "Morning", "Afternoon", "Evening"],
     )
 
-    # Gujarat seasons (approximate)
-    df["season"] = pd.cut(
-        df["month"],
-        bins=[0, 2, 5, 9, 11, 12],
-        labels=["Winter", "Summer", "Monsoon", "Post-Monsoon", "Winter"],
-        ordered=False,
-    )
+    # Gujarat seasons (approximate): map each month explicitly to avoid
+    # duplicate-label issues with pd.cut
+    _season_map = {
+        1: "Winter", 2: "Winter",
+        3: "Summer", 4: "Summer", 5: "Summer",
+        6: "Monsoon", 7: "Monsoon", 8: "Monsoon", 9: "Monsoon",
+        10: "Post-Monsoon", 11: "Post-Monsoon",
+        12: "Winter",
+    }
+    df["season"] = df["month"].map(_season_map).astype("category")
 
     return df
 
@@ -199,8 +202,17 @@ def add_industrial_activity_score(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.copy()
 
-    # Day-of-week weight
-    dow_map = {0: 1.0, 1: 1.0, 2: 1.0, 3: 1.0, 4: 1.0, 5: 0.5, 6: 0.0}
+    # Day-of-week weight (Monday=0 … Friday=4 are full working days;
+    # Saturday=5 is half-day; Sunday=6 is closed)
+    dow_map = {
+        0: 1.0,  # Monday
+        1: 1.0,  # Tuesday
+        2: 1.0,  # Wednesday
+        3: 1.0,  # Thursday
+        4: 1.0,  # Friday
+        5: 0.5,  # Saturday (half-day)
+        6: 0.0,  # Sunday (closed)
+    }
     dow_weight = df["day_of_week"].map(dow_map)
 
     # Hour weight – bell curve centred at 13:00, σ≈5 h
