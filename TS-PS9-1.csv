@@ -1,0 +1,596 @@
+﻿Central Pollution Control Board,,,,
+LIST OF CAAQMS STATIONS              Date:14-04-2026,,,,
+,,,,
+S.No.,State,City,Station Name,Status
+1,Andaman and Nicobar,Sri Vijaya Puram,"Police Line, Sri Vijaya Puram - ANPCC",Inactive
+2,Andhra Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",Live
+3,,Anantapur,"Gulzarpet, Anantapur - APPCB",Live
+4,,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",Live
+5,,Eluru,"District Court, Eluru - APPCB",Live
+6,,Guntur,"Rajendra Nagar North, Guntur - APPCB",Live
+7,,Kadapa,"Yerramukkapalli, Kadapa - APPCB",Live
+8,,Machilipatnam,"Srinivas Nagar Colony, Machilipatnam - APPCB",Live
+9,,Nellore,"Ambedkar Nagar, Nellore - APPCB ",Live
+10,,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",Live
+11,,Tirumala,"Toll Gate, Tirumala - APPCB",Live
+12,,Tirupati,"Vaikuntapuram, Tirupati - APPCB",Live
+13,,Vijayawada,"HB Colony, Vijayawada - APPCB",Live
+14,,,"Kanuru, Vijayawada - APPCB",Live
+15,,,"PWD Grounds, Vijayawada - APPCB",Inactive
+16,,,"Rajiv Gandhi Park, Vijayawada - APPCB",Live
+17,,,"Rajiv Nagar, Vijayawada - APPCB",Live
+18,,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",Live
+19,Arunachal Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",Live
+20,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",Live
+21,,Guwahati,"IITG, Guwahati - PCBA",Delay
+22,,,"LGBI Airport, Guwahati - PCBA",Live
+23,,,"Pan Bazaar, Guwahati - PCBA",Inactive
+24,,,"Railway Colony, Guwahati - PCBA",Live
+25,,Nagaon,"Christianpatty, Nagaon - PCBA",Live
+26,,Nalbari,"Bata Chowk, Nalbari - PCBA",Live
+27,,Silchar,"Tarapur, Silchar - PCBA",Live
+28,,Sivasagar,"Girls College, Sivasagar - PCBA",Live
+29,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",Live
+30,,Arrah,"New DM Office, Arrah - BSPCB",Live
+31,,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",Live
+32,,Begusarai,"Lohiyanagar, Begusarai - BSPCB",Live
+33,,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",Live
+34,,,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",Live
+35,,,"Mayaganj, Bhagalpur - BSPCB",Live
+36,,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",Live
+37,,Buxar,"Charitra Van, Buxar - BSPCB",Live
+38,,Chhapra,"Darshan Nagar, Chhapra - BSPCB",Live
+39,,Darbhanga,"Town Hall - Lal Bagh, Darbhanga - BSPCB",Inactive
+40,,,"Collectorate, Gaya - BSPCB",Live
+41,,,"Kareemganj, Gaya - BSPCB",Live
+42,,,"SFTI Kusdihra, Gaya - BSPCB",Live
+43,,Hajipur,"Industrial Area, Hajipur - BSPCB",Delay
+44,,Katihar,"Mirchaibari, Katihar - BSPCB",Live
+45,,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",Live
+46,,Manguraha,"Forest Rest House, Manguraha - BSPCB",Live
+47,,Motihari,"Gandak Colony, Motihari - BSPCB",Live
+48,,Munger,"Town Hall, Munger - BSPCB",Live
+49,,,"Buddha Colony, Muzaffarpur - BSPCB",Live
+50,,,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",Live
+51,,,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",Live
+52,,Muzaffarpur,"DRM Office Danapur, Patna - BSPCB",Live
+53,,,"Govt. High School Shikarpur, Patna - BSPCB",Live
+54,,,"IGSC Planetarium Complex, Patna - BSPCB",Live
+55,,Patna,"Muradpur, Patna - BSPCB",Live
+56,,,"Rajbansi Nagar, Patna - BSPCB",Live
+57,,,"Samanpura, Patna - BSPCB",Live
+58,,Purnia,"Mariam Nagar, Purnia - BSPCB",Live
+59,,Rajgir,"Dangi Tola, Rajgir - BSPCB",Live
+60,,Saharsa,"Police Line, Saharsa - BSPCB",Live
+61,,Samastipur,"DM Office_Kasipur, Samastipur - BSPCB",Live
+62,,Sasaram,"Dada Peer, Sasaram - BSPCB",Live
+63,,Siwan,"Chitragupta Nagar, Siwan - BSPCB",Delay
+64,Chandigarh,,"Sector 22, Chandigarh - CPCC",Live
+65,,,"Sector-25, Chandigarh - CPCC",Live
+66,,,"Sector-53, Chandigarh - CPCC",Live
+67,Chhattisgarh,Chandigarh,"32Bungalows, Bhilai - CECB",Live
+68,,,"Civic Center, Bhilai - Bhilai Steel Plant",Live
+69,,,"Hathkhoj, Bhilai - CECB",Live
+70,,Bilaspur,"Mangala, Bilaspur - NTPC",Live
+71,,Chhal,"Nawapara SECL Colony, Chhal - CECB",Delay
+72,,,"Rampur, Korba - CECB",Live
+73,,,"Urja Nagar, Korba - CECB",Live
+74,,Kunjemura,"OP Jindal School, Kunjemura - CECB",Live
+75,,Milupara,"Govt. Higher Secondary School, Milupara - CECB",Delay
+76,,,"AIIMS, Raipur - CECB",Live
+77,,,"Bhatagaon New ISBT, Raipur - CECB",Live
+78,,,"Krishak Nagar, Raipur - CECB",Live
+79,,Raipur,"Siltara Phase-II, Raipur - CECB",Live
+80,,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",Live
+81,Delhi,,"Alipur, Delhi - DPCC",Live
+82,,,"Anand Vihar, Delhi - DPCC",Live
+83,,,"Ashok Vihar, Delhi - DPCC",Live
+84,,Delhi,"Aya Nagar, Delhi - IMD",Live
+85,,,"Bawana, Delhi - DPCC",Live
+86,,,"Burari Crossing, Delhi - IMD",Live
+87,,,"CRRI Mathura Road, Delhi - IMD",Live
+88,,,"Cantonment Area, Delhi - DPCC ",Live
+89,,,"Chandni Chowk, Delhi - IITM",Delay
+90,,,"Commonwealth Sports Complex, Delhi - DPCC",Live
+91,,,"DTU, Delhi - CPCB",Live
+92,,,"Dr. Karni Singh Shooting Range, Delhi - DPCC",Live
+93,,,"Dwarka-Sector 8, Delhi - DPCC ",Live
+94,,,"IGI Airport (T3), Delhi - IMD",Live
+95,,,"IGNOU_Maidan Garhi, Delhi - DPCC",Live
+96,,,"IHBAS, Dilshad Garden, Delhi - CPCB",Live
+97,,,"IIT Delhi, Delhi - IITM",Live
+98,,,"ITO, Delhi - CPCB",Live
+99,,,"JNU, Delhi - DPCC",Live
+100,,,"Jahangirpuri, Delhi - DPCC",Live
+101,,,"Jawaharlal Nehru Stadium, Delhi - DPCC",Live
+102,,,"Lodhi Road, Delhi - IITM",Inactive
+103,,,"Lodhi Road, Delhi - IMD",Live
+104,,,"Major Dhyan Chand National Stadium, Delhi - DPCC",Live
+105,,,"Mandir Marg, Delhi - DPCC",Live
+106,,,"Mundka, Delhi - DPCC",Live
+107,,,"NSIT Dwarka, Delhi - CPCB",Live
+108,,,"NSUT Jaffarpur, Delhi - DPCC",Live
+109,,,"Najafgarh, Delhi - DPCC",Live
+110,,,"Narela, Delhi - DPCC",Live
+111,,,"Nehru Nagar, Delhi - DPCC",Live
+112,,,"New Moti Bagh, Delhi - MHUA",Live
+113,,,"North Campus, DU, Delhi - IMD",Live
+114,,,"Okhla Phase-2, Delhi - DPCC",Live
+115,,,"Patparganj, Delhi - DPCC",Live
+116,,,"Punjabi Bagh, Delhi - DPCC",Live
+117,,,"Pusa, Delhi - DPCC",Live
+118,,,"Pusa, Delhi - IMD",Live
+119,,,"R K Puram, Delhi - DPCC",Live
+120,,,"Rohini, Delhi - DPCC",Live
+121,,,"Shadipur, Delhi - CPCB",Live
+122,,,"Sirifort, Delhi - CPCB",Live
+123,,,"Sonia Vihar, Delhi - DPCC",Live
+124,,,"Sri Aurobindo Marg, Delhi - DPCC",Live
+125,,,"Talkatora Garden, Delhi - DPCC",Live
+126,,,"Vivek Vihar, Delhi - DPCC",Live
+127,,,"Wazirpur, Delhi - DPCC",Live
+128,Gujarat,,"Chandkheda, Ahmedabad - IITM",Live
+129,,,"Gyaspur, Ahmedabad - IITM",Live
+130,,,"Maninagar, Ahmedabad - GPCB",Live
+131,,Ahmedabad,"Raikhad, Ahmedabad - IITM",Live
+132,,,"Rakhial, Ahmedabad - IITM",Live
+133,,,"SAC ISRO Bopal, Ahmedabad - IITM",Live
+134,,,"SAC ISRO Satellite, Ahmedabad - IITM",Live
+135,,,"SVPI Airport Hansol, Ahmedabad - IITM",Live
+136,,,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",Inactive
+137,,Ankleshwar,"GIDC, Ankleshwar - GPCB",Live
+138,,Bhavnagar,"Vidhyanagar, Bhavnagar - Nexteng Enviro",Live
+139,,,"GIFT City, Gandhinagar - IITM",Live
+140,,,"IIPHG Lekawada, Gandhinagar - IITM",Live
+141,,,"Sector-10, Gandhinagar - GPCB",Live
+142,,Mehsana,"Sadanand Nagar, Mehsana - Nexteng Enviro",Live
+143,,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",Live
+144,,Rajkot,"Mavdi, Rajkot - Nexteng Enviro ",Live
+145,,,"Katargam, Surat - Nexteng Enviro",Live
+146,,,"Science Center, Surat - SMC",Live
+147,,Vadodara,"Bapunagar, Vadodara - Nexteng Enviro",Live
+148,,Vapi,"Phase-1 GIDC, Vapi - GPCB",Live
+149,,Vatva,"Phase-4 GIDC, Vatva - GPCB",Live
+150,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",Live
+151,,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",Live
+152,,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",Live
+153,,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",Live
+154,,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",Live
+155,,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",Live
+156,,,"New Industrial Town, Faridabad - HSPCB",Live
+157,,,"Sector 11, Faridabad - HSPCB",Delay
+158,,,"Sector 30, Faridabad - HSPCB",Live
+159,,Faridabad,"Sector- 16A, Faridabad - HSPCB",Inactive
+160,,Fatehabad,"Huda Sector, Fatehabad - HSPCB",Live
+161,,,"NISE Gwal Pahari, Gurugram - IMD",Live
+162,,,"Sector-51, Gurugram - HSPCB",Live
+163,,,"Teri Gram, Gurugram - HSPCB",Live
+164,,Gurugram,"Vikas Sadan, Gurugram - HSPCB",Live
+165,,Hisar,"Urban Estate-II, Hisar - HSPCB",Live
+166,,Jind,"Police Lines, Jind - HSPCB",Live
+167,,Kaithal,"Rishi Nagar, Kaithal - HSPCB",Live
+168,,Karnal,"Sector-12, Karnal - HSPCB",Live
+169,,Kurukshetra ,"Sector-7, Kurukshetra - HSPCB",Live
+170,,Mandikhera,"General Hospital, Mandikhera(Nuh) - HSPCB",Live
+171,,Manesar,"Sector-2 IMT, Manesar - HSPCB",Live
+172,,Narnaul,"Shastri Nagar, Narnaul - HSPCB",Live
+173,,Palwal ,"Shyam Nagar, Palwal - HSPCB",Live
+174,,Panchgaon,"Amity University, Panchgaon - IITM",Live
+175,,Panchkula,"Sector-6, Panchkula - HSPCB ",Live
+176,,Panipat,"Sector-18, Panipat - HSPCB",Live
+177,,Rohtak,"MD University, Rohtak - HSPCB",Live
+178,,Sirsa,"F-Block, Sirsa - HSPCB",Live
+179,,Sonipat,"Murthal, Sonipat - HSPCB",Live
+180,,Yamuna Nagar,"Gobind Pura, Yamuna Nagar - HSPCB",Live
+181,Himachal Pradesh,Baddi,"HIMUDA Complex Phase-1, Baddi - HPPCB",Live
+182,Jammu and Kashmir,Pampore,"Khrew, Pampore - JKPCC",Live
+183,,,"Khunmoh, Srinagar - JKPCC",Inactive
+184,,,"Rajbagh, Srinagar - JKPCC",Delay
+185,Jharkhand,,"Kalakusuma, Dhanbad - DMC",Inactive
+186,,Srinagar,"Sardar Patel Nagar, Dhanbad - JSPCB",Live
+187,,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",Live
+188,,Pathardih,"Mohalbani Ghat, Pathardih - DMC",Inactive
+189,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",Live
+190,,Belgaum,"Ramteerth Nagar, Belgaum - KSPCB",Inactive
+191,,,"BTM Layout, Bengaluru - CPCB",Live
+192,,,"BWSSB Kadabesanahalli, Bengaluru - CPCB",Live
+193,,,"Bapuji Nagar, Bengaluru - KSPCB",Live
+194,,Bengaluru,"City Railway Station, Bengaluru - KSPCB",Live
+195,,,"Hebbal, Bengaluru - KSPCB",Live
+196,,,"Hombegowda Nagar, Bengaluru - KSPCB",Live
+197,,,"Jayanagar 5th Block, Bengaluru - KSPCB",Live
+198,,,"Jigani, Bengaluru - KSPCB",Live
+199,,,"Kasturi Nagar, Bengaluru - KSPCB",Live
+200,,,"Peenya, Bengaluru - CPCB",Live
+201,,,"RVCE-Mailasandra, Bengaluru - KSPCB",Live
+202,,,"Sanegurava Halli, Bengaluru - KSPCB",Live
+203,,,"Shivapura_Peenya, Bengaluru - KSPCB",Live
+204,,,"Silk Board, Bengaluru - KSPCB",Live
+205,,Bidar,"Naubad, Bidar - KSPCB",Inactive
+206,,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",Live
+207,,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",Live
+208,,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",Live
+209,,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",Inactive
+210,,Dharwad,"Kalabhavan, Dharwad - KSPCB",Live
+211,,Gadag,"Panchal Nagar, Gadag - KSPCB",Inactive
+212,,Hassan,"B.Katihalli, Hassan - KSPCB",Delay
+213,,Haveri,"Ashwini Nagar, Haveri - KSPCB",Inactive
+214,,,"Deshpande Nagar, Hubballi - KSPCB",Inactive
+215,,,"Lingaraj Nagar, Hubballi - KSPCB",Live
+216,,,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",Delay
+217,,Hubballi,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",Live
+218,,Karwar,"KHB Colony, Karwar - KSPCB",Live
+219,,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",Inactive
+220,,Koppal,"Diwator Nagar, Koppal - KSPCB",Delay
+221,,Madikeri,"Stuart Hill, Madikeri - KSPCB",Live
+222,,Mangalore,"Kadri, Mangalore - KSPCB",Live
+223,,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",Live
+224,,Raichur,"Haji Colony, Raichur - KSPCB",Delay
+225,,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",Live
+226,,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",Live
+227,,Tumakuru,"Thimmalapura, Tumakuru - KSPCB",Live
+228,,Udupi,"Brahmagiri, Udupi - KSPCB",Delay
+229,,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",Live
+230,,Yadgir,"Collector Office, Yadgir - KSPCB",Live
+231,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",Inactive
+232,,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",Inactive
+233,,Kannur,"Thavakkara, Kannur - Kerala PCB",Live
+234,,Kochi,"Vyttila, Kochi - Kerala PCB",Inactive
+235,,Kollam,"Polayathode, Kollam - Kerala PCB",Live
+236,,Kozhikode,"Palayam, Kozhikode - Kerala PCB",Inactive
+237,,,"Kariavattom, Thiruvananthapuram - Kerala PCB",Live
+238,,,"Plammoodu, Thiruvananthapuram - Kerala PCB",Live
+239,,Thrissur,"Corporation Ground, Thrissur - Kerala PCB",Delay
+240,Madhya Pradesh,Thiruvananthapuram,"Idgah Hills, Bhopal - MPPCB",Live
+241,,,"Paryavaran Parisar, Bhopal - MPPCB",Live
+242,,,"T T Nagar, Bhopal - MPPCB",Live
+243,,Damoh,"Shrivastav Colony, Damoh - MPPCB",Live
+244,,Dewas,"Bhopal Chauraha, Dewas - MPPCB",Live
+245,,,"City Center, Gwalior - MPPCB",Live
+246,,,"Deen Dayal Nagar, Gwalior - MPPCB",Live
+247,,,"Maharaj Bada, Gwalior - MPPCB",Live
+248,,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",Inactive
+249,,,"Airport Area, Indore - IMC",Live
+250,,,"Chhoti Gwaltoli, Indore - MPPCB",Live
+251,,,"Maguda Nagar, Indore - IMC",Live
+252,,Indore,"Regional Park, Indore - IMC",Live
+253,,,"Residency Area, Indore - IMC",Live
+254,,,"Vijay Nagar Scheme-78, Indore - Glenmark",Live
+255,,,"Govindh Bhavan Colony, Jabalpur - JMC",Live
+256,,,"Gupteshwar, Jabalpur - JMC",Live
+257,,,"Marhatal, Jabalpur - MPPCB",Live
+258,,Jabalpur,"Suhagi, Jabalpur - JMC",Live
+259,,Katni,"Gole Bazar, Katni - MPPCB",Live
+260,,Maihar,"Sahilara, Maihar - KJS Cements",Delay
+261,,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",Live
+262,,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",Live
+263,,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",Live
+264,,,"Civil Lines, Sagar - MPPCB",Live
+265,,,"Deen Dayal Nagar, Sagar - MPPCB",Live
+266,,Satna,"Bandhavgar Colony, Satna - Birla Cement",Live
+267,,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",Live
+268,,,"Mahakaleshwar Temple, Ujjain - MPPCB",Inactive
+269,,,"Mahashweta Nagar, Ujjain - MPPCB",Live
+270,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",Live
+271,,Akola,"Ramdaspeth, Akola - MPCB",Live
+272,,Ambernath,"Chinchpada, Ambernath - MPCB",Live
+273,,,"Shivneri Colony, Amravati - MPCB",Live
+274,,,"Shri Shivaji Science College, Amravati - MPCB",Live
+275,,,"MIDC Chilkalthana, Aurangabad - MPCB",Live
+276,,Amravati,"More Chowk Waluj, Aurangabad - MPCB",Live
+277,,,"Rachnakar Colony, Aurangabad - MPCB",Live
+278,,Badlapur,"Katrap, Badlapur - MPCB",Live
+279,,Beed,"Bir, Beed - MPCB",Live
+280,,Belapur,"CBD Belapur, Belapur - MPCB",Live
+281,,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",Live
+282,,Boisar,"Khaira, Boisar - MPCB",Live
+283,,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",Live
+284,,,"MIDC Khutala, Chandrapur - MPCB",Live
+285,,Dhule,"Deopur, Dhule - MPCB",Live
+286,,Dombivli ,"Kalu Nagar, Dombivli - MPCB",Live
+287,,Hingoli,"Ashta Vinayak Nagar, Hingoli - MPCB",Live
+288,,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",Live
+289,,Jalna,"Old MIDC, Jalna - MPCB",Live
+290,,Kalyan,"Khadakpada, Kalyan - MPCB",Live
+291,,,"Pimpleshwar Mandir, Kalyan - MPCB",Live
+292,,Kolhapur,"Shivaji University, Kolhapur - MPCB",Live
+293,,,"Sinchan Bhavan, Kolhapur - MPCB",Delay
+294,,Latur,"Sawe Wadi, Latur - MPCB",Live
+295,,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",Live
+296,,Malegaon,"Mahesh Nagar, Malegaon - MPCB",Delay
+297,,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",Live
+298,,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",Live
+299,,,"Bandra Kurla Complex, Mumbai - MPCB",Live
+300,,,"Bandra, Mumbai - MPCB",Inactive
+301,,,"Borivali East, Mumbai - IITM",Live
+302,,,"Borivali East, Mumbai - MPCB",Live
+303,,,"Byculla, Mumbai - BMC",Live
+304,,,"Chakala-Andheri East, Mumbai - IITM",Live
+305,,,"Chembur, Mumbai - MPCB",Live
+306,,,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",Live
+307,,,"Colaba, Mumbai - MPCB",Live
+308,,,"Deonar, Mumbai - IITM",Live
+309,,,"Ghatkopar, Mumbai - BMC",Live
+310,,,"Kandivali East, Mumbai - MPCB",Live
+311,,,"Kandivali West, Mumbai - BMC",Live
+312,,,"Kherwadi_Bandra East, Mumbai - MPCB",Live
+313,,,"Khindipada-Bhandup West, Mumbai - IITM",Live
+314,,,"Kurla, Mumbai - MPCB",Live
+315,,,"Malad West, Mumbai - IITM",Live
+316,,,"Mazgaon, Mumbai - IITM",Live
+317,,,"Mindspace-Malad West, Mumbai - MPCB",Live
+318,,,"Mulund West, Mumbai - MPCB",Live
+319,,,"Navy Nagar-Colaba, Mumbai - IITM",Live
+320,,,"Powai, Mumbai - MPCB",Live
+321,,,"Sewri, Mumbai - BMC",Live
+322,,,"Shivaji Nagar, Mumbai - BMC",Live
+323,,,"Siddharth Nagar-Worli, Mumbai - IITM",Live
+324,,,"Sion, Mumbai - MPCB",Delay
+325,,,"Vasai West, Mumbai - MPCB",Inactive
+326,,,"Vile Parle West, Mumbai - MPCB",Live
+327,,,"Worli, Mumbai -MPCB",Live
+328,,Nagpur,"Ambazari, Nagpur - MPCB",Live
+329,,,"Mahal, Nagpur - MPCB",Live
+330,,,"Opp GPO Civil Lines, Nagpur - MPCB",Live
+331,,,"Ram Nagar, Nagpur - MPCB",Live
+332,,Nanded,"Sneh Nagar, Nanded - MPCB",Live
+333,,Nashik,"Gangapur Road, Nashik - MPCB",Live
+334,,,"Hirawadi, Nashik - MPCB",Live
+335,,,"MIDC Ambad, Nashik - MPCB",Live
+336,,,"Pandav Nagari, Nashik - MPCB",Live
+337,,Navi Mumbai,"Airoli, Navi Mumbai - MPCB",Inactive
+338,,,"Kopripada-Vashi, Navi Mumbai - MPCB",Live
+339,,,"Mahape, Navi Mumbai - MPCB",Live
+340,,,"Nerul, Navi Mumbai - MPCB",Live
+341,,,"Sanpada, Navi Mumbai - MPCB",Live
+342,,,"Sector-19A Nerul, Navi Mumbai - IITM",Inactive
+343,,,"Sector-2E Kalamboli, Navi Mumbai - MPCB",Live
+344,,,"Tondare-Taloja, Navi Mumbai - MPCB",Live
+345,,Parbhani,"Masoom Colony, Parbhani - MPCB",Live
+346,,Pimpri-Chinchwad,"Alandi, Pune - IITM",Inactive
+347,,,"Bhosari, Pune - IITM",Live
+348,,,"Bhumkar Nagar, Pune - IITM",Live
+349,,,"Gavalinagar, Pimpri Chinchwad - MPCB",Live
+350,,,"Park Street Wakad, Pimpri Chinchwad - MPCB",Live
+351,,,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",Live
+352,,,"Thergaon, Pimpri Chinchwad - MPCB",Live
+353,,,"Transport Nagar-Nigdi, Pune - IITM",Live
+354,,Pune,"Dhankawadi, Pune - IITM",Live
+355,,,"Hadapsar, Pune - IITM",Live
+356,,,"Karve Road, Pune - MPCB",Inactive
+357,,,"Katraj Dairy, Pune - MPCB",Live
+358,,,"MIT-Kothrud, Pune - IITM",Inactive
+359,,,"Mhada Colony, Pune - IITM",Live
+360,,,"Panchawati_Pashan, Pune - IITM",Live
+361,,,"Revenue Colony-Shivajinagar, Pune - IITM",Live
+362,,,"Savitribai Phule Pune University, Pune - MPCB",Inactive
+363,,Sangli,"Vijay Nagar, Sangli - MPCB",Live
+364,,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",Delay
+365,,,"Ratandeep Housing Society, Solapur - MPCB",Live
+366,,,"Solapur, Solapur - MPCB",Inactive
+367,,Thane,"Kasarvadavali, Thane - MPCB",Live
+368,,,"Upvan Fort, Thane - MPCB",Live
+369,,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",Live
+370,,,"Vithalwadi, Ulhasnagar - MPCB",Live
+371,,Virar,"Bolinj, Virar - MPCB",Live
+372,Manipur,Imphal,"DM College of Science, Imphal - Manipur PCB",Inactive
+373,,,"Manipur University, Imphal - Manipur PCB",Inactive
+374,Meghalaya ,Byrnihat ,"15th Mile-Nongthymmai, Byrnihat - Meghalaya PCB",Live
+375,,Shillong,"JN Stadium, Shillong - Meghalaya PCB",Inactive
+376,,,"Lumpyngngad, Shillong - Meghalaya PCB",Live
+377,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",Live
+378,Nagaland,Kohima,"PWD Junction, Kohima - NPCB",Live
+379,Odisha,Angul,"Hakimapada, Angul - OSPCB",Live
+380,,Balasore,"Kalidaspur, Balasore - OSPCB",Live
+381,,Barbil,"Forest Office, Barbil - OSPCB",Live
+382,,Baripada,"Meher Colony, Baripada - OSPCB",Live
+383,,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",Live
+384,,,"Patia, Bhubaneswar - OSPCB",Live
+385,,Bileipada,"Tata Township, Bileipada - OSPCB",Live
+386,,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",Live
+387,,Byasanagar,"Ferro Chrome Colony, Byasanagar - OSPCB",Live
+388,,Cuttack,"CDA Area, Cuttack - OSPCB",Live
+389,,Keonjhar,"Jagamohanpur, Keonjhar - OSPCB",Live
+390,,Nayagarh,"Dabuna, Nayagarh - OSPCB",Live
+391,,Rairangpur,"Divisional Forest Office, Rairangpur - OSPCB",Live
+392,,Rourkela,"Fertilizer Township, Rourkela - OSPCB",Live
+393,,,"Raghunathpali, Rourkela - OSPCB",Live
+394,,,"Sector-2, Rourkela - OSPCB",Live
+395,,Suakati,"OMC Colony, Suakati - OSPCB",Live
+396,,Talcher,"Talcher Coalfields,Talcher - OSPCB",Live
+397,,Tensa,"Barsua Iron Ore Mines, Tensa - OSPCB",Live
+398,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",Live
+399,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",Delay
+400,,Bathinda,"Hardev Nagar, Bathinda - PPCB",Live
+401,,Jalandhar,"Civil Line, Jalandhar - PPCB",Live
+402,,Khanna,"Kalal Majra, Khanna - PPCB",Live
+403,,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",Live
+404,,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",Live
+405,,Patiala,"Model Town, Patiala - PPCB",Live
+406,,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",Live
+407,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",Live
+408,,Alwar,"Moti Doongri, Alwar - RSPCB",Live
+409,,Banswara,"Rati Talai, Banswara - RSPCB",Live
+410,,Baran,"Bamboliya, Baran - RSPCB",Live
+411,,Barmer,"Railway Colony, Barmer - RSPCB",Live
+412,,Bharatpur,"Krishna Nagar, Bharatpur - RSPCB",Live
+413,,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",Live
+414,,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",Live
+415,,,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",Live
+416,,Bikaner,"MM Ground, Bikaner - RSPCB",Live
+417,,Bundi,"New Colony, Bundi - RSPCB",Live
+418,,Chittorgarh,"Shastri Nagar, Chittorgarh - RSPCB",Live
+419,,Churu,"Subash Chowk, Churu - RSPCB",Live
+420,,Dausa,"Khatikan Mohalla, Dausa - RSPCB",Live
+421,,Dholpur,"Raja Ganj, Dholpur - RSPCB",Live
+422,,Dungarpur,"Bhoiwada, Dungarpur - RSPCB",Live
+423,,Hanumangarh,"Housing Board, Hanumangarh - RSPCB",Delay
+424,,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",Live
+425,,,"Mansarovar Sector-12, Jaipur - RSPCB",Live
+426,,,"Police Commissionerate, Jaipur - RSPCB",Live
+427,,,"RIICO Sitapura, Jaipur - RSPCB",Live
+428,,,"Sector-2 Murlipura, Jaipur - RSPCB",Live
+429,,,"Shastri Nagar, Jaipur - RSPCB",Live
+430,,Jaisalmer,"Sadar Bazar, Jaisalmer - RSPCB",Live
+431,,Jalore,"Mudtra Sili, Jalore - RSPCB",Live
+432,,Jhalawar,"Rajlaxmi Nagar, Jhalawar - RSPCB",Live
+433,,Jhunjhunu,"Indra Nagar, Jhunjhunu - RSPCB",Live
+434,,Jodhpur,"Collectorate, Jodhpur - RSPCB",Live
+435,,,"Digari Kalan, Jodhpur - RSPCB",Live
+436,,,"Jhalamand, Jodhpur - RSPCB",Live
+437,,,"Mandor, Jodhpur - RSPCB",Live
+438,,,"Samrat Ashok Udhyan, Jodhpur - RSPCB",Live
+439,,Karauli,"Satyawati Vihar, Karauli - RSPCB",Live
+440,,Kota,"Dhanmandi, Kota - RSPCB",Live
+441,,,"Nayapura, Kota - RSPCB",Live
+442,,,"Shrinath Puram, Kota - RSPCB",Live
+443,,Nagaur,"Karni Colony, Nagaur - RSPCB",Live
+444,,Pali,"Indira Colony Vistar, Pali - RSPCB",Live
+445,,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",Live
+446,,Rajsamand,"Dhoinda, Rajsamand - RSPCB",Live
+447,,Sawai Madhopur,"Sahu Nagar, Sawai Madhopur - RSPCB",Live
+448,,Sikar,"Radhakishan Pura, Sikar - RSPCB",Live
+449,,Sirohi,"Vedhaynath Colony, Sirohi - RSPCB",Live
+450,,Sri Ganganagar,"Old City, Sri Ganganagar - RSPCB",Live
+451,,Tonk,"Shastri Nagar, Tonk - RSPCB",Live
+452,,Udaipur,"Ashok Nagar, Udaipur - RSPCB",Live
+453,Sikkim,Gangtok,"Zero Point GICI, Gangtok - SSPCB",Live
+454,Tamil Nadu,Ariyalur,"Keelapalur, Ariyalur - TNPCB",Inactive
+455,,Chengalpattu,"Crescent University, Chengalpattu - TNPCB",Inactive
+456,,Chennai,"Alandur Bus Depot, Chennai - CPCB",Inactive
+457,,,"Arumbakkam, Chennai - TNPCB",Live
+458,,,"Gandhi Nagar_Ennore, Chennai - TNPCB",Inactive
+459,,,"Kodungaiyur, Chennai - TNPCB",Live
+460,,,"Manali Village, Chennai - TNPCB",Live
+461,,,"Manali, Chennai - CPCB",Live
+462,,,"Perungudi, Chennai - TNPCB",Live
+463,,,"Royapuram, Chennai - TNPCB",Live
+464,,,"Velachery Res. Area, Chennai - CPCB",Live
+465,,Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",Delay
+466,,,"SIDCO Kurichi, Coimbatore - TNPCB",Live
+467,,Cuddalore,"Kudikadu, Cuddalore - TNPCB",Inactive
+468,,,"Semmandalam, Cuddalore - TNPCB",Inactive
+469,,Dindigul,"Mendonsa Colony, Dindigul - TNPCB",Inactive
+470,,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Live
+471,,Hosur,"SIPCOT Phase-1, Hosur - TNPCB",Inactive
+472,,Kanchipuram,"Kilambi, Kanchipuram - TNPCB",Inactive
+473,,Karur,"Kamadenu Nagar, Karur - TNPCB",Inactive
+474,,Madurai,"Uchapatti, Madurai - TNPCB",Live
+475,,Nagapattinam,"Velippalayam, Nagapattinam - TNPCB",Inactive
+476,,Namakkal,"Ponnusamy Nagar, Namakkal - TNPCB",Inactive
+477,,Ooty,"Bombay Castel, Ooty - TNPCB",Live
+478,,Palkalaiperur,"Bharathidasan University, Palkalaiperur - TNPCB",Inactive
+479,,Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",Delay
+480,,Pudukottai,"SIPCOT Nathampannai, Pudukottai - TNPCB",Inactive
+481,,Ramanathapuram,"Chalai Bazaar, Ramanathapuram - TNPCB",Inactive
+482,,Ranipet,"VOC Nagar_SIPCOT, Ranipet - TNPCB",Inactive
+483,,Salem,"Sona College of Technology, Salem - TNPCB",Inactive
+484,,Thanjavur,"Parisutham Nagar, Thanjavur - TNPCB",Inactive
+485,,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",Live
+486,,Tiruchirappalli,"St Joseph College, Tiruchirappalli - TNPCB",Inactive
+487,,Tirunelveli,"Municipal Corporation Office, Tirunelveli - TNPCB",Inactive
+488,,Tirupur,"Kumaran College, Tirupur - TNPCB",Live
+489,,Vellore,"Vasanthapuram, Vellore - TNPCB",Inactive
+490,,Virudhunagar,"Collectorate Office, Virudhunagar - TNPCB",Live
+491,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",Inactive
+492,,,"Central University, Hyderabad - TSPCB",Live
+493,,,"ECIL Kapra, Hyderabad - TSPCB",Live
+494,,,"ICRISAT Patancheru, Hyderabad - TSPCB",Inactive
+495,,,"IDA Pashamylaram, Hyderabad - TSPCB",Live
+496,,,"IITH Kandi, Hyderabad - TSPCB",Delay
+497,,,"Kokapet, Hyderabad - TSPCB",Live
+498,,,"Kompally Municipal Office, Hyderabad - TSPCB",Delay
+499,,,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",Live
+500,,,"New Malakpet, Hyderabad - TSPCB",Live
+501,,,"Ramachandrapuram, Hyderabad - TSPCB",Live
+502,,,"Sanathnagar, Hyderabad - TSPCB",Live
+503,,,"Somajiguda, Hyderabad - TSPCB",Live
+504,,,"Zoo Park, Hyderabad - TSPCB",Live
+505,Tripura,Agartala,"Bardowali, Agartala - Tripura SPCB",Live
+506,,,"Kunjaban, Agartala - Tripura SPCB",Inactive
+507,Uttar Pradesh,Agra,"Manoharpur, Agra - UPPCB",Live
+508,,,"Rohta, Agra - UPPCB",Live
+509,,,"Sanjay Palace, Agra - UPPCB",Live
+510,,,"Sector-3B Avas Vikas Colony, Agra - UPPCB",Live
+511,,,"Shahjahan Garden, Agra - UPPCB",Live
+512,,,"Shastripuram, Agra - UPPCB",Live
+513,,Baghpat,"New Collectorate, Baghpat - UPPCB",Inactive
+514,,,"Sardar Patel Inter College, Baghpat - UPPCB",Live
+515,,Bareilly,"Civil Lines, Bareilly - UPPCB",Live
+516,,,"Rajendra Nagar, Bareilly - UPPCB",Live
+517,,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",Live
+518,,Firozabad,"Nagla Bhau, Firozabad - UPPCB",Live
+519,,,"Vibhab Nagar, Firozabad - UPPCB",Live
+520,,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",Live
+521,,,"Loni, Ghaziabad - UPPCB",Live
+522,,,"Sanjay Nagar, Ghaziabad - UPPCB",Live
+523,,,"Vasundhara, Ghaziabad - UPPCB",Live
+524,,,"Ved Vihar-Loni, Ghaziabad - UPPCB",Live
+525,,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",Live
+526,,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",Live
+527,,,"Knowledge Park - V, Greater Noida - UPPCB",Live
+528,,Hapur,"Anand Vihar, Hapur - UPPCB",Live
+529,,Jhansi,"Shivaji Nagar, Jhansi - UPPCB",Live
+530,,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",Live
+531,,,"IITK, Kanpur - IITK",Inactive
+532,,,"NSI Kalyanpur, Kanpur - UPPCB",Live
+533,,,"Nehru Nagar, Kanpur - UPPCB",Live
+534,,Khora,"Prashant Garden, Khora - UPPCB",Live
+535,,Khurja,"Kalindi Kunj, Khurja - UPPCB",Live
+536,,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",Live
+537,,,"Gomti Nagar, Lucknow - UPPCB",Live
+538,,,"Kendriya Vidyalaya, Lucknow - CPCB",Live
+539,,,"Kukrail Picnic Spot-1, Lucknow - UPPCB",Live
+540,,,"Lalbagh, Lucknow - CPCB",Live
+541,,,"Nishant Ganj, Lucknow - UPPCB",Inactive
+542,,,"Talkatora District Industries Center, Lucknow - CPCB",Live
+543,,Meerut,"Ganga Nagar, Meerut - UPPCB",Live
+544,,,"Jai Bhim Nagar, Meerut - UPPCB",Live
+545,,,"Pallavpuram Phase 2, Meerut - UPPCB",Live
+546,,Modinagar ,"SRM University, Modinagar - UPPCB",Live
+547,,Moradabad,"Buddhi Vihar, Moradabad - UPPCB",Live
+548,,,"Eco Herbal Park, Moradabad - UPPCB",Live
+549,,,"Employment Office, Moradabad - UPPCB",Live
+550,,,"Jigar Colony, Moradabad - UPPCB",Live
+551,,,"Kashiram Nagar, Moradabad - UPPCB",Live
+552,,,"Lajpat Nagar, Moradabad - UPPCB",Inactive
+553,,,"Transport Nagar, Moradabad - UPPCB",Live
+554,,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",Live
+555,,Noida,"Sector - 125, Noida - UPPCB",Live
+556,,,"Sector - 62, Noida - IMD",Live
+557,,,"Sector-1, Noida - UPPCB",Live
+558,,,"Sector-116, Noida - UPPCB",Live
+559,,Prayagraj,"Jhunsi, Prayagraj - UPPCB",Live
+560,,,"Motilal Nehru NIT, Prayagraj - UPPCB",Live
+561,,,"Nagar Nigam, Prayagraj - UPPCB",Live
+562,,Raebareli," Indira Nagar, Raebareli - NTPC Unchahar",Live
+563,,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",Live
+564,,,"Bhelupur, Varanasi - UPPCB",Live
+565,,,"IESD Banaras Hindu University, Varanasi - UPPCB",Live
+566,,,"Maldahiya, Varanasi - UPPCB",Live
+567,,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",Live
+568,Uttarakhand,Dehradun,"Doon University, Dehradun - UKPCB",Live
+569,,Kashipur,"Govt. Girls Inter College, Kashipur - UKPCB",Live
+570,,Rishikesh,"Shivaji Nagar, Rishikesh - UKPCB",Live
+571,West Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",Live
+572,,,"Evelyn Lodge, Asansol - WBPCB",Live
+573,,,"Mahabir Colliery, Asansol - WBPCB",Live
+574,,,"Trivenidevi Bhalotia College, Asansol - WBPCB",Live
+575,,Barrackpore,"SVSPA Campus, Barrackpore - WBPCB",Live
+576,,Durgapur,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",Live
+577,,,"PCBL Residential Complex, Durgapur - WBPCB",Live
+578,,,"Womens College_City Center, Durgapur - WBPCB",Live
+579,,Haldia,"Priyambada Housing Estate, Haldia - WBPCB",Live
+580,,Howrah,"Belur Math, Howrah - WBPCB",Live
+581,,,"Botanical Garden, Howrah - WBPCB",Live
+582,,,"Dasnagar, Howrah - WBPCB",Live
+583,,,"Ghusuri, Howrah - WBPCB",Live
+584,,,"Padmapukur, Howrah - WBPCB",Live
+585,,Kolkata,"Ballygunge, Kolkata - WBPCB",Live
+586,,,"Bidhannagar, Kolkata - WBPCB",Live
+587,,,"Fort William, Kolkata - WBPCB",Live
+588,,,"Jadavpur, Kolkata - WBPCB",Live
+589,,,"Rabindra Bharati University, Kolkata - WBPCB",Live
+590,,,"Rabindra Sarobar, Kolkata - WBPCB",Live
+591,,,"Victoria, Kolkata - WBPCB",Live
+592,,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",Live
