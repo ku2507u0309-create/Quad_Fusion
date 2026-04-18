@@ -105,7 +105,6 @@ def fuse_sensor_with_registry(
     for key, val in meta.items():
         fused[key] = val
 
-    registry_df.drop(columns=["_norm"], inplace=True)
     return fused
 
 
